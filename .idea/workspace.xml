@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="225edc7d-49a8-43bd-b381-20d7923a095b" name="更改" comment="第六次提交，修改作者名字为PLum">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;plumhao&quot;
+  }
+}</component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="e557489e-6b56-468e-9a73-41c31b1bbabb" />
+  </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:plumhao/PlumSports1.git&quot;,
+    &quot;accountId&quot;: &quot;e557489e-6b56-468e-9a73-41c31b1bbabb&quot;
+  }
+}</component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="customMavenHome" value="F:\Maven\apache-maven-3.9.9" />
+        <option name="localRepository" value="F:\Maven\MavenRepository" />
+        <option name="mavenHomeTypeForPersistence" value="CUSTOM" />
+        <option name="userSettingsFile" value="F:\Maven\apache-maven-3.9.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2cB5f44LBaBw65Nhi4AHiBfQuw4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Notification.DisplayName-DoNotAsk-Database detector&quot;: &quot;Database detector&quot;,
+    &quot;Notification.DoNotAsk-Database detector&quot;: &quot;true&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.WebApplication.executor&quot;: &quot;Run&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/IDEA/IDEAProjects/PlumSports/SportsGymnasium.spring&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\java系列\我的定制\基于SSM+Vue在运动源泉健身房管理系统的设计与实现\SportsGymnasium.springboot\src\main\java\com\example\web" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\IDEA\IDEAProjects\PlumSports\SportsGymnasium.spring\sql" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.web.controller" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="WebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lzh.sports.WebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23726.103" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23726.103" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="225edc7d-49a8-43bd-b381-20d7923a095b" name="更改" comment="" />
+      <created>1707572232949</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707572232949</updated>
+      <workItem from="1707572234093" duration="1859000" />
+      <workItem from="1707613636090" duration="18448000" />
+      <workItem from="1707700927365" duration="13219000" />
+      <workItem from="1707874814372" duration="8556000" />
+      <workItem from="1707895605159" duration="44000" />
+      <workItem from="1707959547782" duration="851000" />
+      <workItem from="1707964690711" duration="54000" />
+      <workItem from="1707973050775" duration="2097000" />
+      <workItem from="1708525958337" duration="844000" />
+      <workItem from="1709027833434" duration="1998000" />
+      <workItem from="1709134278071" duration="903000" />
+      <workItem from="1709163736200" duration="57000" />
+      <workItem from="1709164547344" duration="630000" />
+      <workItem from="1713276149734" duration="2469000" />
+      <workItem from="1714925391226" duration="854000" />
+      <workItem from="1714943080763" duration="797000" />
+      <workItem from="1716558026980" duration="5423000" />
+      <workItem from="1716564083256" duration="262000" />
+      <workItem from="1716565135281" duration="347000" />
+      <workItem from="1716620109595" duration="1061000" />
+      <workItem from="1718435307405" duration="1768000" />
+      <workItem from="1736474127518" duration="2529000" />
+      <workItem from="1736476687760" duration="67000" />
+      <workItem from="1736476761909" duration="1845000" />
+      <workItem from="1736490458579" duration="1139000" />
+      <workItem from="1736491615844" duration="3430000" />
+      <workItem from="1736496400060" duration="1739000" />
+      <workItem from="1736749981753" duration="1040000" />
+      <workItem from="1736766263232" duration="2819000" />
+      <workItem from="1736823311114" duration="4030000" />
+      <workItem from="1736853591927" duration="1511000" />
+      <workItem from="1736901549381" duration="1204000" />
+      <workItem from="1736924298038" duration="1222000" />
+      <workItem from="1736930344888" duration="164000" />
+      <workItem from="1736931110891" duration="161000" />
+      <workItem from="1736932019418" duration="928000" />
+      <workItem from="1736932962927" duration="518000" />
+      <workItem from="1736937697057" duration="480000" />
+      <workItem from="1736938191038" duration="654000" />
+      <workItem from="1736938862016" duration="10000" />
+      <workItem from="1736939109030" duration="324000" />
+      <workItem from="1736939471387" duration="130000" />
+    </task>
+    <task id="LOCAL-00001" summary="第一次提交，初始化">
+      <option name="closed" value="true" />
+      <created>1736476286142</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1736476286142</updated>
+    </task>
+    <task id="LOCAL-00002" summary="第二次提交，修改了包名">
+      <option name="closed" value="true" />
+      <created>1736477943836</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1736477943836</updated>
+    </task>
+    <task id="LOCAL-00003" summary="第三次提交，更新了数据库">
+      <option name="closed" value="true" />
+      <created>1736492397699</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1736492397699</updated>
+    </task>
+    <task id="LOCAL-00004" summary="第四次提交，测试">
+      <option name="closed" value="true" />
+      <created>1736931177617</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1736931177617</updated>
+    </task>
+    <task id="LOCAL-00005" summary="第五次提交，测试名字">
+      <option name="closed" value="true" />
+      <created>1736932303869</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1736932303869</updated>
+    </task>
+    <task id="LOCAL-00006" summary="第六次提交，修改作者名字为PLum">
+      <option name="closed" value="true" />
+      <created>1736939251571</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1736939251571</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第一次提交，初始化" />
+    <MESSAGE value="第二次提交，修改了包名" />
+    <MESSAGE value="第三次提交，更新了数据库" />
+    <MESSAGE value="第四次提交，测试" />
+    <MESSAGE value="第五次提交，测试名字" />
+    <MESSAGE value="第六次提交，修改作者名字为PLum" />
+    <option name="LAST_COMMIT_MESSAGE" value="第六次提交，修改作者名字为PLum" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

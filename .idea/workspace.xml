@@ -26,7 +26,7 @@
   </component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;git@github.com:plumhao/PlumSports1.git&quot;,
+    &quot;url&quot;: &quot;git@github.com:plumhao/PlumSports.git&quot;,
     &quot;accountId&quot;: &quot;e557489e-6b56-468e-9a73-41c31b1bbabb&quot;
   }
 }</component>
@@ -161,6 +161,9 @@
       <workItem from="1736938862016" duration="10000" />
       <workItem from="1736939109030" duration="324000" />
       <workItem from="1736939471387" duration="130000" />
+      <workItem from="1736939625584" duration="154000" />
+      <workItem from="1736939791567" duration="957000" />
+      <workItem from="1736940895585" duration="629000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交，初始化">
       <option name="closed" value="true" />
@@ -210,7 +213,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736939251571</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="第六次提交，修改作者名字为PLum">
+      <option name="closed" value="true" />
+      <created>1736939672732</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1736939672732</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

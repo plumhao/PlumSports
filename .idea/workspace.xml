@@ -4,8 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="225edc7d-49a8-43bd-b381-20d7923a095b" name="更改" comment="第8次提交，更新了sql和图片">
+    <list default="true" id="225edc7d-49a8-43bd-b381-20d7923a095b" name="更改" comment="第9次提交，测试">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/1739949926786/jj1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/1739949958466/Collage_20241215_171746.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/1739949992153/IMG_20240218_181630.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/1739950503666/Image_1730541698275.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/1739936488039/mc4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/1739949926786/jj1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/1739949958466/Collage_20241215_171746.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/1739949992153/IMG_20240218_181630.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/images/1739950503666/Image_1730541698275.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lzh/sports/controller/AnalyseController$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lzh/sports/controller/AnalyseController$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lzh/sports/controller/AnalyseController$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lzh/sports/controller/AnalyseController$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lzh/sports/controller/AnalyseController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lzh/sports/controller/AnalyseController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lzh/sports/entity/AppUser.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lzh/sports/entity/AppUser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/lzh/sports/WebApplicationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/lzh/sports/WebApplicationTests.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -176,6 +190,7 @@
       <workItem from="1739324929956" duration="3043000" />
       <workItem from="1739936053911" duration="300000" />
       <workItem from="1739936378320" duration="463000" />
+      <workItem from="1739946224905" duration="4272000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交，初始化">
       <option name="closed" value="true" />
@@ -249,7 +264,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739936754323</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="第9次提交，测试">
+      <option name="closed" value="true" />
+      <created>1739946250075</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1739946250075</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -275,7 +298,8 @@
     <MESSAGE value="第六次提交，修改作者名字为PLum" />
     <MESSAGE value="第7次提交，测试修改私有" />
     <MESSAGE value="第8次提交，更新了sql和图片" />
-    <option name="LAST_COMMIT_MESSAGE" value="第8次提交，更新了sql和图片" />
+    <MESSAGE value="第9次提交，测试" />
+    <option name="LAST_COMMIT_MESSAGE" value="第9次提交，测试" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

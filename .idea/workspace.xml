@@ -6,9 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="225edc7d-49a8-43bd-b381-20d7923a095b" name="更改" comment="第8次提交，更新了sql和图片">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lzh/sports/entity/AppUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lzh/sports/entity/AppUser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lzh/sports/entity/AppUser.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lzh/sports/entity/AppUser.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/lzh/sports/WebApplicationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/lzh/sports/WebApplicationTests.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -178,6 +175,7 @@
       <workItem from="1739235681372" duration="2718000" />
       <workItem from="1739324929956" duration="3043000" />
       <workItem from="1739936053911" duration="300000" />
+      <workItem from="1739936378320" duration="463000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交，初始化">
       <option name="closed" value="true" />
@@ -243,7 +241,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736942142647</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="第8次提交，更新了sql和图片">
+      <option name="closed" value="true" />
+      <created>1739936754323</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1739936754323</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -268,7 +274,8 @@
     <MESSAGE value="第五次提交，测试名字" />
     <MESSAGE value="第六次提交，修改作者名字为PLum" />
     <MESSAGE value="第7次提交，测试修改私有" />
-    <option name="LAST_COMMIT_MESSAGE" value="第7次提交，测试修改私有" />
+    <MESSAGE value="第8次提交，更新了sql和图片" />
+    <option name="LAST_COMMIT_MESSAGE" value="第8次提交，更新了sql和图片" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

@@ -9,7 +9,7 @@ import java.time.LocalDateTime;
 
 @Data
 @TableName("AppUser")
-public class AppUser extends  BaseEntity {
+public class AppUser extends BaseEntity {
 
     /**
      * 账号

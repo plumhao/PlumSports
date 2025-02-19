@@ -1,0 +1,21 @@
+@startuml
+!theme materia-outline
+actor User
+participant "AppUserDto" as UserDto
+participant "UserService" as UserService
+participant "UserRepository" as UserRepository
+participant "CardService" as CardService
+participant "CardRepository" as CardRepository
+
+User -> UserService: register(userDetails)
+UserService -> UserDto: create new AppUserDto
+UserService -> UserRepository: save(UserDto)
+UserRepository -> UserService: user saved
+UserService -> CardService: createCardForUser(UserDto)
+CardService -> CardDto: create new CardDto
+CardService -> CardRepository: save(CardDto)
+CardRepository -> CardService: card saved
+CardService -> UserService: cardId
+UserService -> UserDto: setCardId(cardId)
+UserService -> User: registration successful
+@enduml

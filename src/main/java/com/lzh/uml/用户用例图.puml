@@ -1,0 +1,22 @@
+@startuml
+!theme materia-outline
+
+actor User
+actor Admin
+participant System
+
+User -> System: 登录系统 (Login)
+User -> System: 注册新用户 (Register)
+User -> System: 查看个人信息 (View Profile)
+User -> System: 编辑个人信息 (Edit Profile)
+User -> System: 查看会员卡信息 (View Membership Card)
+User -> System: 充值会员卡 (Recharge Membership Card)
+User -> System: 查看证书认证 (View Certifications)
+User -> System: 查看专长领域 (View Areas of Expertise)
+User -> System: 查看工作经验 (View Work Experience)
+User -> System: 查看余额 (View Balance)
+
+Admin -> System: 查看用户信息 (View User Info)
+Admin -> System: 编辑用户信息 (Edit User Info)
+Admin -> System: 删除用户 (Delete User)
+@enduml

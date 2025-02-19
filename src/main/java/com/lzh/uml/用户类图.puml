@@ -1,0 +1,48 @@
+@startuml
+!theme vibrant
+class AppUserDto {
+  - String UserName
+  - String Password
+  - String OrginPassword
+  - String ImageUrls
+  - String Name
+  - String PhoneNumber
+  - LocalDateTime Birth
+  - Integer RoleType
+  - String LoginTimePeriod
+  + String RoleTypeFormat()
+  - String CardNo
+  - String Notes
+  - LocalDateTime OpenCardTime
+  - Integer CardId
+  - String Certifications
+  - String AreasOfExpertise
+  - String WorkExperience
+  - Double Money
+  - Double CumulativeMoney
+  - CardDto CardDto
+  - Double NextGradeRechageMoney
+}
+
+class Enums {
+  + enum RoleType
+  + enum OtherEnums
+}
+
+class BaseDto {
+  - Integer Id
+  - LocalDateTime CreationTime
+  - Integer CreatorId
+}
+
+class CardDto {
+  - String CardNumber
+  - String ExpirationDate
+  - Double Balance
+  + Double getCurrentBalance()
+}
+
+AppUserDto <|-- BaseDto
+AppUserDto --> Enums
+AppUserDto --> CardDto
+@enduml
